@@ -51,11 +51,16 @@ O display OLED exibirá informações como:
 - `ws2812`: Biblioteca para controle da matriz de LEDs WS2812 via PIO.
 - `pico/stdlib`: Biblioteca padrão do Raspberry Pi Pico.
 
-##Autor:
+## Autor:
 
 Matheus Santos Souza
 
-##Código Base:
+## Código Base:
 
-Professor Wilton Lacerda
+Professor Wilton Lacerda Git Hub --> [GitHubProfWilton](https://github.com/wiltonlacerda/EmbarcaTechU4C6.git)
+
+## Link do Vídeo:
+
+[Video de apresentação e demonstração](https://youtu.be/yX6q0HH_Tis)
+
 
